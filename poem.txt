@@ -3,5 +3,6 @@ violet
 indigo
 green
 yellow
+orange
 red
 this is raainbow
